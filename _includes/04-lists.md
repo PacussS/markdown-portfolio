@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+1. Book
+2. Mirror
+   1. Little 
+   2. Big
+* Book
+* Mirror
+  * Little
+  * Big
