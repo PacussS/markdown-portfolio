@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. _Elegant_
+2. *Wise*
+3. **Handsome**
+4. __Strong__
+   * Static
+   * Dynamic
